@@ -1,4 +1,4 @@
-# Root Directory
+# System configuration instructions
 # Scholarly Migration Dataset Analysis
 
 This repository contains resources and instructions for setting up the system and running data analysis on the **Scholarly Migration Dataset** for the period 1998–2020. The dataset includes international migration rates and flows for scholars from 210 countries and is based on Scopus and OpenAlex bibliometric data.
